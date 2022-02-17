@@ -1,0 +1,323 @@
+{
+    "totalNumber": 1,
+    "totalPages": 1,
+    "results": [
+        {
+            "id": 401883395,
+            "makeId": 401784302,
+            "year": 2022,
+            "makeName": "BYTON",
+            "makeNiceName": "byton",
+            "makeNiceId": "byton",
+            "modelId": "BYTON_M_Byte",
+            "modelName": "M-Byte",
+            "modelNiceName": "mbyte",
+            "modelNiceId": "m-byte",
+            "modelYearId": 401883394,
+            "modelLinkCode": "M210002",
+            "standardEngine": {
+                "id": "401883394_401883396",
+                "href": "/api/vehicle/v3/equipments?_id=401883394_401883396"
+            },
+            "engineType": "electric",
+            "engineCompressorType": "NA",
+            "engineFuelType": "electric",
+            "engineCylinder": 0,
+            "engineSize": 0.0,
+            "numberOfSeats": 0,
+            "withBluetooth": false,
+            "withNavigationSystem": false,
+            "withHeatedSeats": false,
+            "trim": {
+                "name": "Base",
+                "niceName": "base",
+                "slug": "base"
+            },
+            "categories": {
+                "PRIMARY_BODY_TYPE": [
+                    "SUV"
+                ],
+                "Vehicle Type": [
+                    "SUV"
+                ],
+                "Crossover": [
+                    "Car"
+                ],
+                "Vehicle Style": [
+                    "4dr SUV"
+                ],
+                "Market": [
+                    "Crossover"
+                ],
+                "Vehicle Size": [
+                    "Large"
+                ]
+            },
+            "categoryValues": [
+                "SUV",
+                "Car",
+                "Large",
+                "4dr SUV",
+                "Crossover"
+            ],
+            "niceCategoryValues": [
+                "4drsuv",
+                "crossover",
+                "large",
+                "suv",
+                "car"
+            ],
+            "modelYear": {
+                "id": 401883394,
+                "name": "2022",
+                "year": 2022,
+                "publicationStates": [
+                    "PRE_PROD"
+                ],
+                "href": "/api/vehicle/v3/modelYears?id=401883394"
+            },
+            "attributeGroups": {
+                "DRIVE_TYPE": {
+                    "id": 19,
+                    "name": "DRIVE_TYPE",
+                    "properties": {
+                        "DRIVEN_WHEELS": "all wheel drive"
+                    },
+                    "attributes": {
+                        "DRIVEN_WHEELS": {
+                            "id": 157,
+                            "name": "DRIVEN_WHEELS",
+                            "value": "all wheel drive"
+                        }
+                    }
+                },
+                "DOORS": {
+                    "id": 18,
+                    "name": "DOORS",
+                    "properties": {
+                        "NUMBER_OF_DOORS": "4"
+                    },
+                    "attributes": {
+                        "NUMBER_OF_DOORS": {
+                            "id": 465,
+                            "name": "NUMBER_OF_DOORS",
+                            "value": "4"
+                        }
+                    }
+                },
+                "CONSUMER_GENERIC_FEATURE": {
+                    "id": 0,
+                    "name": "CONSUMER_GENERIC_FEATURE",
+                    "properties": {
+                        "CONSUMER_GENERIC_FEATURE_0": "AWD/4WD"
+                    },
+                    "attributes": {
+                        "CONSUMER_GENERIC_FEATURE_0": {
+                            "id": 1,
+                            "name": "CONSUMER_GENERIC_FEATURE_0",
+                            "value": "AWD/4WD"
+                        }
+                    }
+                },
+                "MAIN": {
+                    "id": 1,
+                    "name": "MAIN",
+                    "properties": {
+                        "USE_IN_NEW": "Y",
+                        "WORKFLOWSTATUS": "Completed",
+                        "USE_IN_PRE_PRODUCTION": "Y",
+                        "USE_IN_USED": "N",
+                        "USE_IN_PRICE_PROMISE": "N",
+                        "NAME": "4dr SUV AWD (electric)"
+                    },
+                    "attributes": {
+                        "USE_IN_NEW": {
+                            "id": 10,
+                            "name": "USE_IN_NEW",
+                            "value": "Y"
+                        },
+                        "WORKFLOWSTATUS": {
+                            "id": 9223372036854775806,
+                            "name": "WORKFLOWSTATUS",
+                            "value": "Completed"
+                        },
+                        "USE_IN_PRE_PRODUCTION": {
+                            "id": 12,
+                            "name": "USE_IN_PRE_PRODUCTION",
+                            "value": "Y"
+                        },
+                        "USE_IN_USED": {
+                            "id": 11,
+                            "name": "USE_IN_USED",
+                            "value": "N"
+                        },
+                        "USE_IN_PRICE_PROMISE": {
+                            "id": 637,
+                            "name": "USE_IN_PRICE_PROMISE",
+                            "value": "N"
+                        },
+                        "NAME": {
+                            "id": 1,
+                            "name": "NAME",
+                            "value": "4dr SUV AWD (electric)"
+                        }
+                    }
+                },
+                "STYLE_INFO": {
+                    "id": 52,
+                    "name": "STYLE_INFO",
+                    "properties": {
+                        "TRIM_LEVEL": "Base",
+                        "FUTURE_YEAR_AVAILABILITY": "2022",
+                        "VEHICLE_SIZE_CLASS": "Large",
+                        "STANDARD_VEHICLE_DESCRIPTION": "4dr SUV AWD (electric)",
+                        "ESTIMATE_TMV": "N",
+                        "SECONDARY_BODY_TYPE": "Car",
+                        "TMV_CATEGORY": "Midsize SUV",
+                        "FLEET": "consumer",
+                        "VEHICLE_STYLE": "4dr SUV",
+                        "STYLE_START_DATE": "Jan-26-2021 08:42 AM",
+                        "PRIMARY_BODY_TYPE": "SUV",
+                        "LONG_NAME": "0-cyl. Electric AWD",
+                        "STYLE_END_DATE": "09-Sep-2099",
+                        "EPA_CLASS": "Standard Sport Utility Vehicles",
+                        "FUTURE_MONTH_AVAILABILITY": "Winter"
+                    },
+                    "attributes": {
+                        "TRIM_LEVEL": {
+                            "id": 28,
+                            "name": "TRIM_LEVEL",
+                            "value": "Base"
+                        },
+                        "FUTURE_YEAR_AVAILABILITY": {
+                            "id": 445,
+                            "name": "FUTURE_YEAR_AVAILABILITY",
+                            "value": "2022"
+                        },
+                        "VEHICLE_SIZE_CLASS": {
+                            "id": 449,
+                            "name": "VEHICLE_SIZE_CLASS",
+                            "value": "Large"
+                        },
+                        "STANDARD_VEHICLE_DESCRIPTION": {
+                            "id": 441,
+                            "name": "STANDARD_VEHICLE_DESCRIPTION",
+                            "value": "4dr SUV AWD (electric)"
+                        },
+                        "ESTIMATE_TMV": {
+                            "id": 597,
+                            "name": "ESTIMATE_TMV",
+                            "value": "N"
+                        },
+                        "SECONDARY_BODY_TYPE": {
+                            "id": 448,
+                            "name": "SECONDARY_BODY_TYPE",
+                            "value": "Car"
+                        },
+                        "TMV_CATEGORY": {
+                            "id": 596,
+                            "name": "TMV_CATEGORY",
+                            "value": "Midsize SUV"
+                        },
+                        "FLEET": {
+                            "id": 22,
+                            "name": "FLEET",
+                            "value": "consumer"
+                        },
+                        "VEHICLE_STYLE": {
+                            "id": 636,
+                            "name": "VEHICLE_STYLE",
+                            "value": "4dr SUV"
+                        },
+                        "STYLE_START_DATE": {
+                            "id": 435,
+                            "name": "STYLE_START_DATE",
+                            "value": "Jan-26-2021 08:42 AM"
+                        },
+                        "PRIMARY_BODY_TYPE": {
+                            "id": 447,
+                            "name": "PRIMARY_BODY_TYPE",
+                            "value": "SUV"
+                        },
+                        "LONG_NAME": {
+                            "id": 0,
+                            "name": "LONG_NAME",
+                            "value": "0-cyl. Electric AWD"
+                        },
+                        "STYLE_END_DATE": {
+                            "id": 436,
+                            "name": "STYLE_END_DATE",
+                            "value": "09-Sep-2099"
+                        },
+                        "EPA_CLASS": {
+                            "id": 444,
+                            "name": "EPA_CLASS",
+                            "value": "Standard Sport Utility Vehicles"
+                        },
+                        "FUTURE_MONTH_AVAILABILITY": {
+                            "id": 446,
+                            "name": "FUTURE_MONTH_AVAILABILITY",
+                            "value": "Winter"
+                        }
+                    }
+                }
+            },
+            "squishVins": [],
+            "subModels": [
+                {
+                    "id": 401883397,
+                    "name": "M-Byte SUV",
+                    "niceId": "suv",
+                    "identifier": "SUV",
+                    "ruleType": "body",
+                    "href": "/api/vehicle/v3/submodels?id=401883397"
+                }
+            ],
+            "name": "4dr SUV AWD (electric)",
+            "niceName": "4drsuvawdelectric",
+            "niceId": "4dr-suv-awd-electric",
+            "publicationState": "PRE_PROD",
+            "standardEquipment": [
+                {
+                    "id": "401883394_-4018833953",
+                    "href": "/api/vehicle/v3/equipments?_id=401883394_-4018833953"
+                },
+                {
+                    "id": "401883394_-4018833952",
+                    "href": "/api/vehicle/v3/equipments?_id=401883394_-4018833952"
+                },
+                {
+                    "id": "401883394_-4018833951",
+                    "href": "/api/vehicle/v3/equipments?_id=401883394_-4018833951"
+                },
+                {
+                    "id": "401883394_401883396",
+                    "href": "/api/vehicle/v3/equipments?_id=401883394_401883396"
+                }
+            ],
+            "optionalEquipment": [],
+            "usedEquipment": [],
+            "options": [],
+            "configurableEquipment": [],
+            "regionRestrictions": {},
+            "typicallyEquippedSpecifications": [],
+            "edTypeCategories": [
+                {
+                    "id": 3,
+                    "name": "Crossover",
+                    "slug": "crossover"
+                },
+                {
+                    "id": 5,
+                    "name": "Electric",
+                    "slug": "electric"
+                },
+                {
+                    "id": 12,
+                    "name": "SUV",
+                    "slug": "suv"
+                }
+            ]
+        }
+    ]
+}

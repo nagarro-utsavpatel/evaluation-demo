@@ -1,0 +1,1286 @@
+{
+    "totalNumber": 6,
+    "totalPages": 1,
+    "results": [
+        {
+            "id": "Ram_Promaster_City",
+            "makeId": 200393150,
+            "makeName": "Ram",
+            "makeNiceName": "ram",
+            "makeNiceId": "ram",
+            "name": "Promaster City",
+            "niceName": "promastercity",
+            "adTargetId": "promastercity",
+            "niceId": "promaster-city",
+            "modelLinkCode": "M150034",
+            "make": {
+                "id": 200393150,
+                "href": "/api/vehicle/v3/makes?id=200393150"
+            },
+            "modelYears": [
+                {
+                    "id": 401910949,
+                    "name": "2022",
+                    "year": 2022,
+                    "publicationStates": [
+                        "NEW"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401910949"
+                },
+                {
+                    "id": 401582284,
+                    "name": "2016",
+                    "year": 2016,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401582284"
+                },
+                {
+                    "id": 200696467,
+                    "name": "2015",
+                    "year": 2015,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=200696467"
+                },
+                {
+                    "id": 401762391,
+                    "name": "2019",
+                    "year": 2019,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401762391"
+                },
+                {
+                    "id": 401835691,
+                    "name": "2020",
+                    "year": 2020,
+                    "publicationStates": [
+                        "NEW_USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401835691"
+                },
+                {
+                    "id": 401874284,
+                    "name": "2021",
+                    "year": 2021,
+                    "publicationStates": [
+                        "NEW_USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401874284"
+                },
+                {
+                    "id": 401654857,
+                    "name": "2017",
+                    "year": 2017,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401654857"
+                },
+                {
+                    "id": 401728524,
+                    "name": "2018",
+                    "year": 2018,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401728524"
+                }
+            ],
+            "attributeGroups": {
+                "MAIN": {
+                    "id": 1,
+                    "name": "MAIN",
+                    "properties": {
+                        "USE_IN_NEW": "Y",
+                        "EPI_CATEGORY_ID": "2",
+                        "YEAR": "2022",
+                        "MODEL_LINK_CODE": "M150034",
+                        "EPI_CATEGORY_NAME": "Minivan",
+                        "WORKFLOWSTATUS": "Completed",
+                        "DATA_ACQUISITION_DATE": "Sep-30-2021 12:00 AM",
+                        "USE_IN_PRE_PRODUCTION": "N",
+                        "USE_IN_USED": "N",
+                        "NAME": "Promaster City"
+                    },
+                    "attributes": {
+                        "USE_IN_NEW": {
+                            "id": 10,
+                            "name": "USE_IN_NEW",
+                            "value": "Y"
+                        },
+                        "EPI_CATEGORY_ID": {
+                            "id": 730,
+                            "name": "EPI_CATEGORY_ID",
+                            "value": "2"
+                        },
+                        "YEAR": {
+                            "id": 2,
+                            "name": "YEAR",
+                            "value": "2022"
+                        },
+                        "MODEL_LINK_CODE": {
+                            "id": 20,
+                            "name": "MODEL_LINK_CODE",
+                            "value": "M150034"
+                        },
+                        "EPI_CATEGORY_NAME": {
+                            "id": 731,
+                            "name": "EPI_CATEGORY_NAME",
+                            "value": "Minivan"
+                        },
+                        "WORKFLOWSTATUS": {
+                            "id": 9223372036854775806,
+                            "name": "WORKFLOWSTATUS",
+                            "value": "Completed"
+                        },
+                        "DATA_ACQUISITION_DATE": {
+                            "id": 1569,
+                            "name": "DATA_ACQUISITION_DATE",
+                            "value": "Sep-30-2021 12:00 AM"
+                        },
+                        "USE_IN_PRE_PRODUCTION": {
+                            "id": 12,
+                            "name": "USE_IN_PRE_PRODUCTION",
+                            "value": "N"
+                        },
+                        "USE_IN_USED": {
+                            "id": 11,
+                            "name": "USE_IN_USED",
+                            "value": "N"
+                        },
+                        "NAME": {
+                            "id": 1,
+                            "name": "NAME",
+                            "value": "Promaster City"
+                        }
+                    }
+                }
+            },
+            "categories": {
+                "PRIMARY_BODY_TYPE": [
+                    "Minivan"
+                ],
+                "Vehicle Type": [
+                    "Minivan"
+                ],
+                "Vehicle Style": [
+                    "Cargo Minivan",
+                    "Passenger Minivan"
+                ],
+                "Market": [
+                    "N/A"
+                ],
+                "Vehicle Size": [
+                    "Midsize",
+                    "Compact"
+                ]
+            },
+            "categoryValues": [
+                "Minivan",
+                "N/A",
+                "Cargo Minivan",
+                "Passenger Minivan",
+                "Midsize",
+                "Compact"
+            ],
+            "publicationStates": [
+                "NEW",
+                "USED",
+                "NEW_USED"
+            ]
+        },
+        {
+            "id": "Ram_2500",
+            "makeId": 200393150,
+            "makeName": "Ram",
+            "makeNiceName": "ram",
+            "makeNiceId": "ram",
+            "name": "2500",
+            "niceName": "2500",
+            "adTargetId": "2500",
+            "niceId": "2500",
+            "modelLinkCode": "M030184",
+            "make": {
+                "id": 200393150,
+                "href": "/api/vehicle/v3/makes?id=200393150"
+            },
+            "modelYears": [
+                {
+                    "id": 200743476,
+                    "name": "2016",
+                    "year": 2016,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=200743476"
+                },
+                {
+                    "id": 401904112,
+                    "name": "2022",
+                    "year": 2022,
+                    "publicationStates": [
+                        "NEW"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401904112"
+                },
+                {
+                    "id": 200487815,
+                    "name": "2014",
+                    "year": 2014,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=200487815"
+                },
+                {
+                    "id": 401630229,
+                    "name": "2017",
+                    "year": 2017,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401630229"
+                },
+                {
+                    "id": 401784277,
+                    "name": "2019",
+                    "year": 2019,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401784277"
+                },
+                {
+                    "id": 401734235,
+                    "name": "2018",
+                    "year": 2018,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401734235"
+                },
+                {
+                    "id": 100532709,
+                    "name": "2011",
+                    "year": 2011,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=100532709"
+                },
+                {
+                    "id": 100537509,
+                    "name": "2012",
+                    "year": 2012,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=100537509"
+                },
+                {
+                    "id": 200709848,
+                    "name": "2015",
+                    "year": 2015,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=200709848"
+                },
+                {
+                    "id": 401859085,
+                    "name": "2021",
+                    "year": 2021,
+                    "publicationStates": [
+                        "NEW_USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401859085"
+                },
+                {
+                    "id": 200461661,
+                    "name": "2013",
+                    "year": 2013,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=200461661"
+                },
+                {
+                    "id": 401838252,
+                    "name": "2020",
+                    "year": 2020,
+                    "publicationStates": [
+                        "NEW_USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401838252"
+                }
+            ],
+            "attributeGroups": {
+                "MAIN": {
+                    "id": 1,
+                    "name": "MAIN",
+                    "properties": {
+                        "USE_IN_NEW": "Y",
+                        "EPI_CATEGORY_ID": "4",
+                        "MODEL_LINK_CODE": "M030184",
+                        "YEAR": "2022",
+                        "EPI_CATEGORY_NAME": "Large Truck",
+                        "WORKFLOWSTATUS": "Completed",
+                        "DATA_ACQUISITION_DATE": "Jul-01-2021 12:00 AM",
+                        "USE_IN_PRE_PRODUCTION": "N",
+                        "MINIMUM_VIABLE_DATA": "Y",
+                        "USE_IN_USED": "N",
+                        "NAME": "2500"
+                    },
+                    "attributes": {
+                        "USE_IN_NEW": {
+                            "id": 10,
+                            "name": "USE_IN_NEW",
+                            "value": "Y"
+                        },
+                        "EPI_CATEGORY_ID": {
+                            "id": 730,
+                            "name": "EPI_CATEGORY_ID",
+                            "value": "4"
+                        },
+                        "MODEL_LINK_CODE": {
+                            "id": 20,
+                            "name": "MODEL_LINK_CODE",
+                            "value": "M030184"
+                        },
+                        "YEAR": {
+                            "id": 2,
+                            "name": "YEAR",
+                            "value": "2022"
+                        },
+                        "EPI_CATEGORY_NAME": {
+                            "id": 731,
+                            "name": "EPI_CATEGORY_NAME",
+                            "value": "Large Truck"
+                        },
+                        "WORKFLOWSTATUS": {
+                            "id": 9223372036854775806,
+                            "name": "WORKFLOWSTATUS",
+                            "value": "Completed"
+                        },
+                        "DATA_ACQUISITION_DATE": {
+                            "id": 1569,
+                            "name": "DATA_ACQUISITION_DATE",
+                            "value": "Jul-01-2021 12:00 AM"
+                        },
+                        "USE_IN_PRE_PRODUCTION": {
+                            "id": 12,
+                            "name": "USE_IN_PRE_PRODUCTION",
+                            "value": "N"
+                        },
+                        "MINIMUM_VIABLE_DATA": {
+                            "id": 12611,
+                            "name": "MINIMUM_VIABLE_DATA",
+                            "value": "Y"
+                        },
+                        "USE_IN_USED": {
+                            "id": 11,
+                            "name": "USE_IN_USED",
+                            "value": "N"
+                        },
+                        "NAME": {
+                            "id": 1,
+                            "name": "NAME",
+                            "value": "2500"
+                        }
+                    }
+                }
+            },
+            "categories": {
+                "PRIMARY_BODY_TYPE": [
+                    "Truck"
+                ],
+                "Vehicle Type": [
+                    "Truck"
+                ],
+                "MANUFACTURER_CAB_TYPE": [
+                    "Mega Cab"
+                ],
+                "Vehicle Style": [
+                    "Crew Cab Pickup",
+                    "Regular Cab Pickup"
+                ],
+                "Market": [
+                    "N/A",
+                    "Diesel"
+                ],
+                "Vehicle Size": [
+                    "Large"
+                ]
+            },
+            "categoryValues": [
+                "Crew Cab Pickup",
+                "N/A",
+                "Regular Cab Pickup",
+                "Large",
+                "Truck",
+                "Diesel",
+                "Mega Cab"
+            ],
+            "publicationStates": [
+                "NEW",
+                "USED",
+                "NEW_USED"
+            ]
+        },
+        {
+            "id": "Ram_Promaster_Window_Van",
+            "makeId": 200393150,
+            "makeName": "Ram",
+            "makeNiceName": "ram",
+            "makeNiceId": "ram",
+            "name": "Promaster Window Van",
+            "niceName": "promasterwindowvan",
+            "adTargetId": "promasterwindowvan",
+            "niceId": "promaster-window-van",
+            "modelLinkCode": "M140027",
+            "make": {
+                "id": 200393150,
+                "href": "/api/vehicle/v3/makes?id=200393150"
+            },
+            "modelYears": [
+                {
+                    "id": 200734214,
+                    "name": "2016",
+                    "year": 2016,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=200734214"
+                },
+                {
+                    "id": 200467795,
+                    "name": "2014",
+                    "year": 2014,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=200467795"
+                },
+                {
+                    "id": 401908896,
+                    "name": "2022",
+                    "year": 2022,
+                    "publicationStates": [
+                        "NEW"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401908896"
+                },
+                {
+                    "id": 200705346,
+                    "name": "2015",
+                    "year": 2015,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=200705346"
+                },
+                {
+                    "id": 401870848,
+                    "name": "2021",
+                    "year": 2021,
+                    "publicationStates": [
+                        "NEW_USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401870848"
+                },
+                {
+                    "id": 401660392,
+                    "name": "2017",
+                    "year": 2017,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401660392"
+                },
+                {
+                    "id": 401761784,
+                    "name": "2019",
+                    "year": 2019,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401761784"
+                },
+                {
+                    "id": 401823423,
+                    "name": "2020",
+                    "year": 2020,
+                    "publicationStates": [
+                        "NEW_USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401823423"
+                },
+                {
+                    "id": 401744508,
+                    "name": "2018",
+                    "year": 2018,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401744508"
+                }
+            ],
+            "attributeGroups": {
+                "MAIN": {
+                    "id": 1,
+                    "name": "MAIN",
+                    "properties": {
+                        "USE_IN_NEW": "Y",
+                        "YEAR": "2022",
+                        "MODEL_LINK_CODE": "M140027",
+                        "WORKFLOWSTATUS": "Completed",
+                        "DATA_ACQUISITION_DATE": "Sep-02-2021 12:00 AM",
+                        "USE_IN_PRE_PRODUCTION": "N",
+                        "USE_IN_USED": "N",
+                        "NAME": "Promaster Window Van"
+                    },
+                    "attributes": {
+                        "USE_IN_NEW": {
+                            "id": 10,
+                            "name": "USE_IN_NEW",
+                            "value": "Y"
+                        },
+                        "YEAR": {
+                            "id": 2,
+                            "name": "YEAR",
+                            "value": "2022"
+                        },
+                        "MODEL_LINK_CODE": {
+                            "id": 20,
+                            "name": "MODEL_LINK_CODE",
+                            "value": "M140027"
+                        },
+                        "WORKFLOWSTATUS": {
+                            "id": 9223372036854775806,
+                            "name": "WORKFLOWSTATUS",
+                            "value": "Completed"
+                        },
+                        "DATA_ACQUISITION_DATE": {
+                            "id": 1569,
+                            "name": "DATA_ACQUISITION_DATE",
+                            "value": "Sep-02-2021 12:00 AM"
+                        },
+                        "USE_IN_PRE_PRODUCTION": {
+                            "id": 12,
+                            "name": "USE_IN_PRE_PRODUCTION",
+                            "value": "N"
+                        },
+                        "USE_IN_USED": {
+                            "id": 11,
+                            "name": "USE_IN_USED",
+                            "value": "N"
+                        },
+                        "NAME": {
+                            "id": 1,
+                            "name": "NAME",
+                            "value": "Promaster Window Van"
+                        }
+                    }
+                }
+            },
+            "categories": {
+                "PRIMARY_BODY_TYPE": [
+                    "Van"
+                ],
+                "Vehicle Type": [
+                    "Van"
+                ],
+                "Vehicle Style": [
+                    "Cargo Van"
+                ],
+                "Market": [
+                    "N/A",
+                    "Diesel"
+                ],
+                "Vehicle Size": [
+                    "Large"
+                ]
+            },
+            "categoryValues": [
+                "N/A",
+                "Van",
+                "Large",
+                "Diesel",
+                "Cargo Van"
+            ],
+            "publicationStates": [
+                "NEW",
+                "USED",
+                "NEW_USED"
+            ]
+        },
+        {
+            "id": "Ram_Promaster_Cargo_Van",
+            "makeId": 200393150,
+            "makeName": "Ram",
+            "makeNiceName": "ram",
+            "makeNiceId": "ram",
+            "name": "Promaster Cargo Van",
+            "niceName": "promastercargovan",
+            "adTargetId": "promastercargovan",
+            "niceId": "promaster-cargo-van",
+            "modelLinkCode": "M140026",
+            "make": {
+                "id": 200393150,
+                "href": "/api/vehicle/v3/makes?id=200393150"
+            },
+            "modelYears": [
+                {
+                    "id": 200734551,
+                    "name": "2016",
+                    "year": 2016,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=200734551"
+                },
+                {
+                    "id": 401820321,
+                    "name": "2020",
+                    "year": 2020,
+                    "publicationStates": [
+                        "NEW_USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401820321"
+                },
+                {
+                    "id": 401649492,
+                    "name": "2017",
+                    "year": 2017,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401649492"
+                },
+                {
+                    "id": 401727157,
+                    "name": "2018",
+                    "year": 2018,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401727157"
+                },
+                {
+                    "id": 401908897,
+                    "name": "2022",
+                    "year": 2022,
+                    "publicationStates": [
+                        "NEW"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401908897"
+                },
+                {
+                    "id": 200467588,
+                    "name": "2014",
+                    "year": 2014,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=200467588"
+                },
+                {
+                    "id": 200705184,
+                    "name": "2015",
+                    "year": 2015,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=200705184"
+                },
+                {
+                    "id": 401760981,
+                    "name": "2019",
+                    "year": 2019,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401760981"
+                },
+                {
+                    "id": 401869608,
+                    "name": "2021",
+                    "year": 2021,
+                    "publicationStates": [
+                        "NEW_USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401869608"
+                }
+            ],
+            "attributeGroups": {
+                "MAIN": {
+                    "id": 1,
+                    "name": "MAIN",
+                    "properties": {
+                        "USE_IN_NEW": "Y",
+                        "YEAR": "2022",
+                        "MODEL_LINK_CODE": "M140026",
+                        "WORKFLOWSTATUS": "Completed",
+                        "DATA_ACQUISITION_DATE": "Sep-02-2021 12:00 AM",
+                        "USE_IN_PRE_PRODUCTION": "N",
+                        "USE_IN_USED": "N",
+                        "NAME": "Promaster Cargo Van"
+                    },
+                    "attributes": {
+                        "USE_IN_NEW": {
+                            "id": 10,
+                            "name": "USE_IN_NEW",
+                            "value": "Y"
+                        },
+                        "YEAR": {
+                            "id": 2,
+                            "name": "YEAR",
+                            "value": "2022"
+                        },
+                        "MODEL_LINK_CODE": {
+                            "id": 20,
+                            "name": "MODEL_LINK_CODE",
+                            "value": "M140026"
+                        },
+                        "WORKFLOWSTATUS": {
+                            "id": 9223372036854775806,
+                            "name": "WORKFLOWSTATUS",
+                            "value": "Completed"
+                        },
+                        "DATA_ACQUISITION_DATE": {
+                            "id": 1569,
+                            "name": "DATA_ACQUISITION_DATE",
+                            "value": "Sep-02-2021 12:00 AM"
+                        },
+                        "USE_IN_PRE_PRODUCTION": {
+                            "id": 12,
+                            "name": "USE_IN_PRE_PRODUCTION",
+                            "value": "N"
+                        },
+                        "USE_IN_USED": {
+                            "id": 11,
+                            "name": "USE_IN_USED",
+                            "value": "N"
+                        },
+                        "NAME": {
+                            "id": 1,
+                            "name": "NAME",
+                            "value": "Promaster Cargo Van"
+                        }
+                    }
+                }
+            },
+            "categories": {
+                "PRIMARY_BODY_TYPE": [
+                    "Van"
+                ],
+                "Vehicle Type": [
+                    "Van"
+                ],
+                "Vehicle Style": [
+                    "Cargo Van"
+                ],
+                "Market": [
+                    "N/A",
+                    "Diesel"
+                ],
+                "Vehicle Size": [
+                    "Large",
+                    "Midsize"
+                ]
+            },
+            "categoryValues": [
+                "N/A",
+                "Van",
+                "Large",
+                "Diesel",
+                "Midsize",
+                "Cargo Van"
+            ],
+            "publicationStates": [
+                "NEW",
+                "USED",
+                "NEW_USED"
+            ]
+        },
+        {
+            "id": "Ram_1500",
+            "makeId": 200393150,
+            "makeName": "Ram",
+            "makeNiceName": "ram",
+            "makeNiceId": "ram",
+            "name": "1500",
+            "niceName": "1500",
+            "adTargetId": "1500",
+            "niceId": "1500",
+            "modelLinkCode": "M030183",
+            "make": {
+                "id": 200393150,
+                "href": "/api/vehicle/v3/makes?id=200393150"
+            },
+            "modelYears": [
+                {
+                    "id": 200715990,
+                    "name": "2015",
+                    "year": 2015,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=200715990"
+                },
+                {
+                    "id": 100539471,
+                    "name": "2013",
+                    "year": 2013,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=100539471"
+                },
+                {
+                    "id": 100537469,
+                    "name": "2012",
+                    "year": 2012,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=100537469"
+                },
+                {
+                    "id": 401893217,
+                    "name": "2022",
+                    "year": 2022,
+                    "publicationStates": [
+                        "NEW_USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401893217"
+                },
+                {
+                    "id": 401655765,
+                    "name": "2017",
+                    "year": 2017,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401655765"
+                },
+                {
+                    "id": 401799319,
+                    "name": "2020",
+                    "year": 2020,
+                    "publicationStates": [
+                        "NEW_USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401799319"
+                },
+                {
+                    "id": 200481909,
+                    "name": "2014",
+                    "year": 2014,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=200481909"
+                },
+                {
+                    "id": 401728759,
+                    "name": "2018",
+                    "year": 2018,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401728759"
+                },
+                {
+                    "id": 100532809,
+                    "name": "2011",
+                    "year": 2011,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=100532809"
+                },
+                {
+                    "id": 200742272,
+                    "name": "2016",
+                    "year": 2016,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=200742272"
+                },
+                {
+                    "id": 401748762,
+                    "name": "2019",
+                    "year": 2019,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401748762"
+                },
+                {
+                    "id": 401848766,
+                    "name": "2021",
+                    "year": 2021,
+                    "publicationStates": [
+                        "NEW_USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401848766"
+                }
+            ],
+            "attributeGroups": {
+                "MAIN": {
+                    "id": 1,
+                    "name": "MAIN",
+                    "properties": {
+                        "USE_IN_NEW": "Y",
+                        "EPI_CATEGORY_ID": "4",
+                        "YEAR": "2022",
+                        "MODEL_LINK_CODE": "M030183",
+                        "EPI_CATEGORY_NAME": "Large Truck",
+                        "WORKFLOWSTATUS": "Completed",
+                        "DATA_ACQUISITION_DATE": "Jul-01-2021 12:00 AM",
+                        "USE_IN_PRE_PRODUCTION": "N",
+                        "USE_IN_USED": "N",
+                        "NAME": "1500"
+                    },
+                    "attributes": {
+                        "USE_IN_NEW": {
+                            "id": 10,
+                            "name": "USE_IN_NEW",
+                            "value": "Y"
+                        },
+                        "EPI_CATEGORY_ID": {
+                            "id": 730,
+                            "name": "EPI_CATEGORY_ID",
+                            "value": "4"
+                        },
+                        "YEAR": {
+                            "id": 2,
+                            "name": "YEAR",
+                            "value": "2022"
+                        },
+                        "MODEL_LINK_CODE": {
+                            "id": 20,
+                            "name": "MODEL_LINK_CODE",
+                            "value": "M030183"
+                        },
+                        "EPI_CATEGORY_NAME": {
+                            "id": 731,
+                            "name": "EPI_CATEGORY_NAME",
+                            "value": "Large Truck"
+                        },
+                        "WORKFLOWSTATUS": {
+                            "id": 9223372036854775806,
+                            "name": "WORKFLOWSTATUS",
+                            "value": "Completed"
+                        },
+                        "DATA_ACQUISITION_DATE": {
+                            "id": 1569,
+                            "name": "DATA_ACQUISITION_DATE",
+                            "value": "Jul-01-2021 12:00 AM"
+                        },
+                        "USE_IN_PRE_PRODUCTION": {
+                            "id": 12,
+                            "name": "USE_IN_PRE_PRODUCTION",
+                            "value": "N"
+                        },
+                        "USE_IN_USED": {
+                            "id": 11,
+                            "name": "USE_IN_USED",
+                            "value": "N"
+                        },
+                        "NAME": {
+                            "id": 1,
+                            "name": "NAME",
+                            "value": "1500"
+                        }
+                    }
+                }
+            },
+            "categories": {
+                "PRIMARY_BODY_TYPE": [
+                    "Truck"
+                ],
+                "Vehicle Type": [
+                    "Truck"
+                ],
+                "MANUFACTURER_CAB_TYPE": [
+                    "Quad Cab"
+                ],
+                "Vehicle Style": [
+                    "Crew Cab Pickup",
+                    "Regular Cab Pickup"
+                ],
+                "Market": [
+                    "N/A",
+                    "Factory Tuner",
+                    "Hybrid",
+                    "Flex Fuel",
+                    "Diesel",
+                    "Performance"
+                ],
+                "Vehicle Size": [
+                    "Large"
+                ]
+            },
+            "categoryValues": [
+                "Crew Cab Pickup",
+                "N/A",
+                "Quad Cab",
+                "Factory Tuner",
+                "Regular Cab Pickup",
+                "Large",
+                "Hybrid",
+                "Flex Fuel",
+                "Truck",
+                "Diesel",
+                "Performance"
+            ],
+            "publicationStates": [
+                "USED",
+                "NEW_USED"
+            ]
+        },
+        {
+            "id": "Ram_3500",
+            "makeId": 200393150,
+            "makeName": "Ram",
+            "makeNiceName": "ram",
+            "makeNiceId": "ram",
+            "name": "3500",
+            "niceName": "3500",
+            "adTargetId": "3500",
+            "niceId": "3500",
+            "modelLinkCode": "M030185",
+            "make": {
+                "id": 200393150,
+                "href": "/api/vehicle/v3/makes?id=200393150"
+            },
+            "modelYears": [
+                {
+                    "id": 401787954,
+                    "name": "2019",
+                    "year": 2019,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401787954"
+                },
+                {
+                    "id": 401737666,
+                    "name": "2018",
+                    "year": 2018,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401737666"
+                },
+                {
+                    "id": 200743122,
+                    "name": "2016",
+                    "year": 2016,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=200743122"
+                },
+                {
+                    "id": 401894226,
+                    "name": "2022",
+                    "year": 2022,
+                    "publicationStates": [
+                        "NEW_USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401894226"
+                },
+                {
+                    "id": 200461157,
+                    "name": "2013",
+                    "year": 2013,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=200461157"
+                },
+                {
+                    "id": 200488612,
+                    "name": "2014",
+                    "year": 2014,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=200488612"
+                },
+                {
+                    "id": 200710030,
+                    "name": "2015",
+                    "year": 2015,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=200710030"
+                },
+                {
+                    "id": 401690971,
+                    "name": "2017",
+                    "year": 2017,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401690971"
+                },
+                {
+                    "id": 100532789,
+                    "name": "2011",
+                    "year": 2011,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=100532789"
+                },
+                {
+                    "id": 401838719,
+                    "name": "2020",
+                    "year": 2020,
+                    "publicationStates": [
+                        "NEW_USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401838719"
+                },
+                {
+                    "id": 401859086,
+                    "name": "2021",
+                    "year": 2021,
+                    "publicationStates": [
+                        "NEW_USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=401859086"
+                },
+                {
+                    "id": 100538449,
+                    "name": "2012",
+                    "year": 2012,
+                    "publicationStates": [
+                        "USED"
+                    ],
+                    "href": "/api/vehicle/v3/modelYears?id=100538449"
+                }
+            ],
+            "attributeGroups": {
+                "MAIN": {
+                    "id": 1,
+                    "name": "MAIN",
+                    "properties": {
+                        "USE_IN_NEW": "Y",
+                        "EPI_CATEGORY_ID": "4",
+                        "MODEL_LINK_CODE": "M030185",
+                        "YEAR": "2022",
+                        "EPI_CATEGORY_NAME": "Large Truck",
+                        "WORKFLOWSTATUS": "Completed",
+                        "DATA_ACQUISITION_DATE": "Jul-01-2021 12:00 AM",
+                        "USE_IN_PRE_PRODUCTION": "N",
+                        "MINIMUM_VIABLE_DATA": "N",
+                        "USE_IN_USED": "N",
+                        "NAME": "3500"
+                    },
+                    "attributes": {
+                        "USE_IN_NEW": {
+                            "id": 10,
+                            "name": "USE_IN_NEW",
+                            "value": "Y"
+                        },
+                        "EPI_CATEGORY_ID": {
+                            "id": 730,
+                            "name": "EPI_CATEGORY_ID",
+                            "value": "4"
+                        },
+                        "MODEL_LINK_CODE": {
+                            "id": 20,
+                            "name": "MODEL_LINK_CODE",
+                            "value": "M030185"
+                        },
+                        "YEAR": {
+                            "id": 2,
+                            "name": "YEAR",
+                            "value": "2022"
+                        },
+                        "EPI_CATEGORY_NAME": {
+                            "id": 731,
+                            "name": "EPI_CATEGORY_NAME",
+                            "value": "Large Truck"
+                        },
+                        "WORKFLOWSTATUS": {
+                            "id": 9223372036854775806,
+                            "name": "WORKFLOWSTATUS",
+                            "value": "Completed"
+                        },
+                        "DATA_ACQUISITION_DATE": {
+                            "id": 1569,
+                            "name": "DATA_ACQUISITION_DATE",
+                            "value": "Jul-01-2021 12:00 AM"
+                        },
+                        "USE_IN_PRE_PRODUCTION": {
+                            "id": 12,
+                            "name": "USE_IN_PRE_PRODUCTION",
+                            "value": "N"
+                        },
+                        "MINIMUM_VIABLE_DATA": {
+                            "id": 12611,
+                            "name": "MINIMUM_VIABLE_DATA",
+                            "value": "N"
+                        },
+                        "USE_IN_USED": {
+                            "id": 11,
+                            "name": "USE_IN_USED",
+                            "value": "N"
+                        },
+                        "NAME": {
+                            "id": 1,
+                            "name": "NAME",
+                            "value": "3500"
+                        }
+                    }
+                }
+            },
+            "categories": {
+                "PRIMARY_BODY_TYPE": [
+                    "Truck"
+                ],
+                "Vehicle Type": [
+                    "Truck"
+                ],
+                "MANUFACTURER_CAB_TYPE": [
+                    "Mega Cab"
+                ],
+                "Vehicle Style": [
+                    "Crew Cab Pickup",
+                    "Regular Cab Pickup"
+                ],
+                "Market": [
+                    "Diesel"
+                ],
+                "Vehicle Size": [
+                    "Large"
+                ]
+            },
+            "categoryValues": [
+                "Crew Cab Pickup",
+                "Regular Cab Pickup",
+                "Large",
+                "Truck",
+                "Diesel",
+                "Mega Cab"
+            ],
+            "publicationStates": [
+                "USED",
+                "NEW_USED"
+            ]
+        }
+    ]
+}

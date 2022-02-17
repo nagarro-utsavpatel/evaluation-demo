@@ -1,0 +1,932 @@
+{
+    "totalNumber": 68,
+    "totalPages": 7,
+    "results": [
+        {
+            "id": 200001510,
+            "name": "Jeep",
+            "niceName": "jeep",
+            "adTargetId": "jeep",
+            "niceId": "jeep",
+            "useInUsed": "Y",
+            "useInNew": "Y",
+            "useInPreProduction": "Y",
+            "useInFuture": "N",
+            "attributeGroups": {},
+            "models": [
+                {
+                    "id": "Jeep_Wagoneer",
+                    "name": "Wagoneer",
+                    "niceName": "wagoneer",
+                    "href": "/api/vehicle/v3/models?id=Jeep_Wagoneer"
+                },
+                {
+                    "id": "Jeep_Wrangler_JK",
+                    "name": "Wrangler JK",
+                    "niceName": "wranglerjk",
+                    "href": "/api/vehicle/v3/models?id=Jeep_Wrangler_JK"
+                },
+                {
+                    "id": "Jeep_Cherokee",
+                    "name": "Cherokee",
+                    "niceName": "cherokee",
+                    "href": "/api/vehicle/v3/models?id=Jeep_Cherokee"
+                },
+                {
+                    "id": "Jeep_Grand_Wagoneer",
+                    "name": "Grand Wagoneer",
+                    "niceName": "grandwagoneer",
+                    "href": "/api/vehicle/v3/models?id=Jeep_Grand_Wagoneer"
+                },
+                {
+                    "id": "Jeep_Comanche",
+                    "name": "Comanche",
+                    "niceName": "comanche",
+                    "href": "/api/vehicle/v3/models?id=Jeep_Comanche"
+                },
+                {
+                    "id": "Jeep_Commander",
+                    "name": "Commander",
+                    "niceName": "commander",
+                    "href": "/api/vehicle/v3/models?id=Jeep_Commander"
+                },
+                {
+                    "id": "Jeep_Grand_Cherokee_L",
+                    "name": "Grand Cherokee L",
+                    "niceName": "grandcherokeel",
+                    "href": "/api/vehicle/v3/models?id=Jeep_Grand_Cherokee_L"
+                },
+                {
+                    "id": "Jeep_Compass",
+                    "name": "Compass",
+                    "niceName": "compass",
+                    "href": "/api/vehicle/v3/models?id=Jeep_Compass"
+                },
+                {
+                    "id": "Jeep_Liberty",
+                    "name": "Liberty",
+                    "niceName": "liberty",
+                    "href": "/api/vehicle/v3/models?id=Jeep_Liberty"
+                },
+                {
+                    "id": "Jeep_Patriot",
+                    "name": "Patriot",
+                    "niceName": "patriot",
+                    "href": "/api/vehicle/v3/models?id=Jeep_Patriot"
+                },
+                {
+                    "id": "Jeep_Grand_Cherokee_WK",
+                    "name": "Grand Cherokee WK",
+                    "niceName": "grandcherokeewk",
+                    "href": "/api/vehicle/v3/models?id=Jeep_Grand_Cherokee_WK"
+                },
+                {
+                    "id": "Jeep_Grand_Cherokee",
+                    "name": "Grand Cherokee",
+                    "niceName": "grandcherokee",
+                    "href": "/api/vehicle/v3/models?id=Jeep_Grand_Cherokee"
+                },
+                {
+                    "id": "Jeep_Wrangler",
+                    "name": "Wrangler",
+                    "niceName": "wrangler",
+                    "href": "/api/vehicle/v3/models?id=Jeep_Wrangler"
+                },
+                {
+                    "id": "Jeep_Gladiator",
+                    "name": "Gladiator",
+                    "niceName": "gladiator",
+                    "href": "/api/vehicle/v3/models?id=Jeep_Gladiator"
+                },
+                {
+                    "id": "Jeep_Grand_Cherokee_SRT",
+                    "name": "Grand Cherokee SRT",
+                    "niceName": "grandcherokeesrt",
+                    "href": "/api/vehicle/v3/models?id=Jeep_Grand_Cherokee_SRT"
+                },
+                {
+                    "id": "Jeep_Renegade",
+                    "name": "Renegade",
+                    "niceName": "renegade",
+                    "href": "/api/vehicle/v3/models?id=Jeep_Renegade"
+                }
+            ]
+        },
+        {
+            "id": 200038885,
+            "name": "smart",
+            "niceName": "smart",
+            "adTargetId": "smart",
+            "niceId": "smart",
+            "useInUsed": "Y",
+            "useInNew": "N",
+            "useInPreProduction": "N",
+            "useInFuture": "N",
+            "attributeGroups": {},
+            "models": [
+                {
+                    "id": "smart_fortwo",
+                    "name": "fortwo",
+                    "niceName": "fortwo",
+                    "href": "/api/vehicle/v3/models?id=smart_fortwo"
+                },
+                {
+                    "id": "smart_EQ_fortwo",
+                    "name": "EQ fortwo",
+                    "niceName": "eqfortwo",
+                    "href": "/api/vehicle/v3/models?id=smart_EQ_fortwo"
+                }
+            ]
+        },
+        {
+            "id": 401784302,
+            "name": "BYTON",
+            "niceName": "byton",
+            "adTargetId": "byton",
+            "niceId": "byton",
+            "useInUsed": "N",
+            "useInNew": "Y",
+            "useInPreProduction": "Y",
+            "useInFuture": "N",
+            "attributeGroups": {},
+            "models": [
+                {
+                    "id": "BYTON_M_Byte",
+                    "name": "M-Byte",
+                    "niceName": "mbyte",
+                    "href": "/api/vehicle/v3/models?id=BYTON_M_Byte"
+                }
+            ]
+        },
+        {
+            "id": 200009788,
+            "name": "Dodge",
+            "niceName": "dodge",
+            "adTargetId": "dodge",
+            "niceId": "dodge",
+            "useInUsed": "Y",
+            "useInNew": "Y",
+            "useInPreProduction": "Y",
+            "useInFuture": "N",
+            "attributeGroups": {},
+            "models": [
+                {
+                    "id": "Dodge_Neon",
+                    "name": "Neon",
+                    "niceName": "neon",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Neon"
+                },
+                {
+                    "id": "Dodge_Stealth",
+                    "name": "Stealth",
+                    "niceName": "stealth",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Stealth"
+                },
+                {
+                    "id": "Dodge_SRT_Viper",
+                    "name": "SRT Viper",
+                    "niceName": "srtviper",
+                    "href": "/api/vehicle/v3/models?id=Dodge_SRT_Viper"
+                },
+                {
+                    "id": "Dodge_Ram_Cargo",
+                    "name": "Ram Cargo",
+                    "niceName": "ramcargo",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Ram_Cargo"
+                },
+                {
+                    "id": "Dodge_Stratus",
+                    "name": "Stratus",
+                    "niceName": "stratus",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Stratus"
+                },
+                {
+                    "id": "Dodge_Caravan",
+                    "name": "Caravan",
+                    "niceName": "caravan",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Caravan"
+                },
+                {
+                    "id": "Dodge_Ram_Pickup_3500",
+                    "name": "Ram Pickup 3500",
+                    "niceName": "rampickup3500",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Ram_Pickup_3500"
+                },
+                {
+                    "id": "Dodge_Ram_Van",
+                    "name": "Ram Van",
+                    "niceName": "ramvan",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Ram_Van"
+                },
+                {
+                    "id": "Dodge_Ram_Pickup_1500",
+                    "name": "Ram Pickup 1500",
+                    "niceName": "rampickup1500",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Ram_Pickup_1500"
+                },
+                {
+                    "id": "Dodge_Spirit",
+                    "name": "Spirit",
+                    "niceName": "spirit",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Spirit"
+                },
+                {
+                    "id": "Dodge_Ram_50_Pickup",
+                    "name": "Ram 50 Pickup",
+                    "niceName": "ram50pickup",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Ram_50_Pickup"
+                },
+                {
+                    "id": "Dodge_Avenger",
+                    "name": "Avenger",
+                    "niceName": "avenger",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Avenger"
+                },
+                {
+                    "id": "Dodge_Charger",
+                    "name": "Charger",
+                    "niceName": "charger",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Charger"
+                },
+                {
+                    "id": "Dodge_RAM_150",
+                    "name": "RAM 150",
+                    "niceName": "ram150",
+                    "href": "/api/vehicle/v3/models?id=Dodge_RAM_150"
+                },
+                {
+                    "id": "Dodge_Ramcharger",
+                    "name": "Ramcharger",
+                    "niceName": "ramcharger",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Ramcharger"
+                },
+                {
+                    "id": "Dodge_Caliber",
+                    "name": "Caliber",
+                    "niceName": "caliber",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Caliber"
+                },
+                {
+                    "id": "Dodge_RAM_350",
+                    "name": "RAM 350",
+                    "niceName": "ram350",
+                    "href": "/api/vehicle/v3/models?id=Dodge_RAM_350"
+                },
+                {
+                    "id": "Dodge_Dakota",
+                    "name": "Dakota",
+                    "niceName": "dakota",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Dakota"
+                },
+                {
+                    "id": "Dodge_Dart",
+                    "name": "Dart",
+                    "niceName": "dart",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Dart"
+                },
+                {
+                    "id": "Dodge_Intrepid",
+                    "name": "Intrepid",
+                    "niceName": "intrepid",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Intrepid"
+                },
+                {
+                    "id": "Dodge_RAM_250",
+                    "name": "RAM 250",
+                    "niceName": "ram250",
+                    "href": "/api/vehicle/v3/models?id=Dodge_RAM_250"
+                },
+                {
+                    "id": "Dodge_Challenger",
+                    "name": "Challenger",
+                    "niceName": "challenger",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Challenger"
+                },
+                {
+                    "id": "Dodge_Monaco",
+                    "name": "Monaco",
+                    "niceName": "monaco",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Monaco"
+                },
+                {
+                    "id": "Dodge_Colt",
+                    "name": "Colt",
+                    "niceName": "colt",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Colt"
+                },
+                {
+                    "id": "Dodge_Durango",
+                    "name": "Durango",
+                    "niceName": "durango",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Durango"
+                },
+                {
+                    "id": "Dodge_Grand_Caravan",
+                    "name": "Grand Caravan",
+                    "niceName": "grandcaravan",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Grand_Caravan"
+                },
+                {
+                    "id": "Dodge_Viper",
+                    "name": "Viper",
+                    "niceName": "viper",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Viper"
+                },
+                {
+                    "id": "Dodge_Shadow",
+                    "name": "Shadow",
+                    "niceName": "shadow",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Shadow"
+                },
+                {
+                    "id": "Dodge_Dynasty",
+                    "name": "Dynasty",
+                    "niceName": "dynasty",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Dynasty"
+                },
+                {
+                    "id": "Dodge_Ram_Pickup_2500",
+                    "name": "Ram Pickup 2500",
+                    "niceName": "rampickup2500",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Ram_Pickup_2500"
+                },
+                {
+                    "id": "Dodge_Sprinter",
+                    "name": "Sprinter",
+                    "niceName": "sprinter",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Sprinter"
+                },
+                {
+                    "id": "Dodge_Daytona",
+                    "name": "Daytona",
+                    "niceName": "daytona",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Daytona"
+                },
+                {
+                    "id": "Dodge_Nitro",
+                    "name": "Nitro",
+                    "niceName": "nitro",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Nitro"
+                },
+                {
+                    "id": "Dodge_Journey",
+                    "name": "Journey",
+                    "niceName": "journey",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Journey"
+                },
+                {
+                    "id": "Dodge_Sprinter_Cargo",
+                    "name": "Sprinter Cargo",
+                    "niceName": "sprintercargo",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Sprinter_Cargo"
+                },
+                {
+                    "id": "Dodge_Ram_Wagon",
+                    "name": "Ram Wagon",
+                    "niceName": "ramwagon",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Ram_Wagon"
+                },
+                {
+                    "id": "Dodge_Magnum",
+                    "name": "Magnum",
+                    "niceName": "magnum",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Magnum"
+                },
+                {
+                    "id": "Dodge_Omni",
+                    "name": "Omni",
+                    "niceName": "omni",
+                    "href": "/api/vehicle/v3/models?id=Dodge_Omni"
+                }
+            ]
+        },
+        {
+            "id": 200004446,
+            "name": "Saturn",
+            "niceName": "saturn",
+            "adTargetId": "saturn",
+            "niceId": "saturn",
+            "useInUsed": "Y",
+            "useInNew": "N",
+            "useInPreProduction": "N",
+            "useInFuture": "N",
+            "attributeGroups": {},
+            "models": [
+                {
+                    "id": "Saturn_VUE",
+                    "name": "VUE",
+                    "niceName": "vue",
+                    "href": "/api/vehicle/v3/models?id=Saturn_VUE"
+                },
+                {
+                    "id": "Saturn_L300",
+                    "name": "L300",
+                    "niceName": "l300",
+                    "href": "/api/vehicle/v3/models?id=Saturn_L300"
+                },
+                {
+                    "id": "Saturn_Astra",
+                    "name": "Astra",
+                    "niceName": "astra",
+                    "href": "/api/vehicle/v3/models?id=Saturn_Astra"
+                },
+                {
+                    "id": "Saturn_ION",
+                    "name": "ION",
+                    "niceName": "ion",
+                    "href": "/api/vehicle/v3/models?id=Saturn_ION"
+                },
+                {
+                    "id": "Saturn_S_Series",
+                    "name": "S-Series",
+                    "niceName": "sseries",
+                    "href": "/api/vehicle/v3/models?id=Saturn_S_Series"
+                },
+                {
+                    "id": "Saturn_L_Series",
+                    "name": "L-Series",
+                    "niceName": "lseries",
+                    "href": "/api/vehicle/v3/models?id=Saturn_L_Series"
+                },
+                {
+                    "id": "Saturn_Aura",
+                    "name": "Aura",
+                    "niceName": "aura",
+                    "href": "/api/vehicle/v3/models?id=Saturn_Aura"
+                },
+                {
+                    "id": "Saturn_Relay",
+                    "name": "Relay",
+                    "niceName": "relay",
+                    "href": "/api/vehicle/v3/models?id=Saturn_Relay"
+                },
+                {
+                    "id": "Saturn_Aura_Hybrid",
+                    "name": "Aura Hybrid",
+                    "niceName": "aurahybrid",
+                    "href": "/api/vehicle/v3/models?id=Saturn_Aura_Hybrid"
+                },
+                {
+                    "id": "Saturn_VUE_Hybrid",
+                    "name": "VUE Hybrid",
+                    "niceName": "vuehybrid",
+                    "href": "/api/vehicle/v3/models?id=Saturn_VUE_Hybrid"
+                },
+                {
+                    "id": "Saturn_Outlook",
+                    "name": "Outlook",
+                    "niceName": "outlook",
+                    "href": "/api/vehicle/v3/models?id=Saturn_Outlook"
+                },
+                {
+                    "id": "Saturn_Sky",
+                    "name": "Sky",
+                    "niceName": "sky",
+                    "href": "/api/vehicle/v3/models?id=Saturn_Sky"
+                }
+            ]
+        },
+        {
+            "id": 200393150,
+            "name": "Ram",
+            "niceName": "ram",
+            "adTargetId": "ram",
+            "niceId": "ram",
+            "useInUsed": "Y",
+            "useInNew": "Y",
+            "useInPreProduction": "N",
+            "useInFuture": "N",
+            "attributeGroups": {},
+            "models": [
+                {
+                    "id": "Ram_C/V_Tradesman",
+                    "name": "C/V Tradesman",
+                    "niceName": "cvtradesman",
+                    "href": "/api/vehicle/v3/models?id=Ram_C/V_Tradesman"
+                },
+                {
+                    "id": "Ram_Promaster_Window_Van",
+                    "name": "Promaster Window Van",
+                    "niceName": "promasterwindowvan",
+                    "href": "/api/vehicle/v3/models?id=Ram_Promaster_Window_Van"
+                },
+                {
+                    "id": "Ram_C/V_Cargo_Van",
+                    "name": "C/V Cargo Van",
+                    "niceName": "cvcargovan",
+                    "href": "/api/vehicle/v3/models?id=Ram_C/V_Cargo_Van"
+                },
+                {
+                    "id": "Ram_Dakota",
+                    "name": "Dakota",
+                    "niceName": "dakota",
+                    "href": "/api/vehicle/v3/models?id=Ram_Dakota"
+                },
+                {
+                    "id": "Ram_Promaster_Cargo_Van",
+                    "name": "Promaster Cargo Van",
+                    "niceName": "promastercargovan",
+                    "href": "/api/vehicle/v3/models?id=Ram_Promaster_Cargo_Van"
+                },
+                {
+                    "id": "Ram_2500",
+                    "name": "2500",
+                    "niceName": "2500",
+                    "href": "/api/vehicle/v3/models?id=Ram_2500"
+                },
+                {
+                    "id": "Ram_1500",
+                    "name": "1500",
+                    "niceName": "1500",
+                    "href": "/api/vehicle/v3/models?id=Ram_1500"
+                },
+                {
+                    "id": "Ram_3500",
+                    "name": "3500",
+                    "niceName": "3500",
+                    "href": "/api/vehicle/v3/models?id=Ram_3500"
+                },
+                {
+                    "id": "Ram_Promaster_City",
+                    "name": "Promaster City",
+                    "niceName": "promastercity",
+                    "href": "/api/vehicle/v3/models?id=Ram_Promaster_City"
+                },
+                {
+                    "id": "Ram_1500_Classic",
+                    "name": "1500 Classic",
+                    "niceName": "1500classic",
+                    "href": "/api/vehicle/v3/models?id=Ram_1500_Classic"
+                }
+            ]
+        },
+        {
+            "id": 200003063,
+            "name": "Kia",
+            "niceName": "kia",
+            "adTargetId": "kia",
+            "niceId": "kia",
+            "useInUsed": "Y",
+            "useInNew": "Y",
+            "useInPreProduction": "Y",
+            "useInFuture": "N",
+            "attributeGroups": {},
+            "models": [
+                {
+                    "id": "Kia_Sportage_Plug_In_Hybrid",
+                    "name": "Sportage Plug-In Hybrid",
+                    "niceName": "sportagepluginhybrid",
+                    "href": "/api/vehicle/v3/models?id=Kia_Sportage_Plug_In_Hybrid"
+                },
+                {
+                    "id": "Kia_Optima_Plug_In_Hybrid",
+                    "name": "Optima Plug-In Hybrid",
+                    "niceName": "optimapluginhybrid",
+                    "href": "/api/vehicle/v3/models?id=Kia_Optima_Plug_In_Hybrid"
+                },
+                {
+                    "id": "Kia_Seltos",
+                    "name": "Seltos",
+                    "niceName": "seltos",
+                    "href": "/api/vehicle/v3/models?id=Kia_Seltos"
+                },
+                {
+                    "id": "Kia_Soul_EV",
+                    "name": "Soul EV",
+                    "niceName": "soulev",
+                    "href": "/api/vehicle/v3/models?id=Kia_Soul_EV"
+                },
+                {
+                    "id": "Kia_Cadenza",
+                    "name": "Cadenza",
+                    "niceName": "cadenza",
+                    "href": "/api/vehicle/v3/models?id=Kia_Cadenza"
+                },
+                {
+                    "id": "Kia_Spectra",
+                    "name": "Spectra",
+                    "niceName": "spectra",
+                    "href": "/api/vehicle/v3/models?id=Kia_Spectra"
+                },
+                {
+                    "id": "Kia_K5",
+                    "name": "K5",
+                    "niceName": "k5",
+                    "href": "/api/vehicle/v3/models?id=Kia_K5"
+                },
+                {
+                    "id": "Kia_Rondo",
+                    "name": "Rondo",
+                    "niceName": "rondo",
+                    "href": "/api/vehicle/v3/models?id=Kia_Rondo"
+                },
+                {
+                    "id": "Kia_Niro_Plug_In_Hybrid",
+                    "name": "Niro Plug-In Hybrid",
+                    "niceName": "niropluginhybrid",
+                    "href": "/api/vehicle/v3/models?id=Kia_Niro_Plug_In_Hybrid"
+                },
+                {
+                    "id": "Kia_Sportage_Hybrid",
+                    "name": "Sportage Hybrid",
+                    "niceName": "sportagehybrid",
+                    "href": "/api/vehicle/v3/models?id=Kia_Sportage_Hybrid"
+                },
+                {
+                    "id": "Kia_Sorento",
+                    "name": "Sorento",
+                    "niceName": "sorento",
+                    "href": "/api/vehicle/v3/models?id=Kia_Sorento"
+                },
+                {
+                    "id": "Kia_Optima_Hybrid",
+                    "name": "Optima Hybrid",
+                    "niceName": "optimahybrid",
+                    "href": "/api/vehicle/v3/models?id=Kia_Optima_Hybrid"
+                },
+                {
+                    "id": "Kia_Sorento_Plug_In_Hybrid",
+                    "name": "Sorento Plug-In Hybrid",
+                    "niceName": "sorentopluginhybrid",
+                    "href": "/api/vehicle/v3/models?id=Kia_Sorento_Plug_In_Hybrid"
+                },
+                {
+                    "id": "Kia_K900",
+                    "name": "K900",
+                    "niceName": "k900",
+                    "href": "/api/vehicle/v3/models?id=Kia_K900"
+                },
+                {
+                    "id": "Kia_Optima",
+                    "name": "Optima",
+                    "niceName": "optima",
+                    "href": "/api/vehicle/v3/models?id=Kia_Optima"
+                },
+                {
+                    "id": "Kia_Soul",
+                    "name": "Soul",
+                    "niceName": "soul",
+                    "href": "/api/vehicle/v3/models?id=Kia_Soul"
+                },
+                {
+                    "id": "Kia_Stinger",
+                    "name": "Stinger",
+                    "niceName": "stinger",
+                    "href": "/api/vehicle/v3/models?id=Kia_Stinger"
+                },
+                {
+                    "id": "Kia_Sephia",
+                    "name": "Sephia",
+                    "niceName": "sephia",
+                    "href": "/api/vehicle/v3/models?id=Kia_Sephia"
+                },
+                {
+                    "id": "Kia_Telluride",
+                    "name": "Telluride",
+                    "niceName": "telluride",
+                    "href": "/api/vehicle/v3/models?id=Kia_Telluride"
+                },
+                {
+                    "id": "Kia_EV6",
+                    "name": "EV6",
+                    "niceName": "ev6",
+                    "href": "/api/vehicle/v3/models?id=Kia_EV6"
+                },
+                {
+                    "id": "Kia_Carnival",
+                    "name": "Carnival",
+                    "niceName": "carnival",
+                    "href": "/api/vehicle/v3/models?id=Kia_Carnival"
+                },
+                {
+                    "id": "Kia_Forte",
+                    "name": "Forte",
+                    "niceName": "forte",
+                    "href": "/api/vehicle/v3/models?id=Kia_Forte"
+                },
+                {
+                    "id": "Kia_Sedona",
+                    "name": "Sedona",
+                    "niceName": "sedona",
+                    "href": "/api/vehicle/v3/models?id=Kia_Sedona"
+                },
+                {
+                    "id": "Kia_Sportage",
+                    "name": "Sportage",
+                    "niceName": "sportage",
+                    "href": "/api/vehicle/v3/models?id=Kia_Sportage"
+                },
+                {
+                    "id": "Kia_Niro_EV",
+                    "name": "Niro EV",
+                    "niceName": "niroev",
+                    "href": "/api/vehicle/v3/models?id=Kia_Niro_EV"
+                },
+                {
+                    "id": "Kia_Niro",
+                    "name": "Niro",
+                    "niceName": "niro",
+                    "href": "/api/vehicle/v3/models?id=Kia_Niro"
+                },
+                {
+                    "id": "Kia_Amanti",
+                    "name": "Amanti",
+                    "niceName": "amanti",
+                    "href": "/api/vehicle/v3/models?id=Kia_Amanti"
+                },
+                {
+                    "id": "Kia_Borrego",
+                    "name": "Borrego",
+                    "niceName": "borrego",
+                    "href": "/api/vehicle/v3/models?id=Kia_Borrego"
+                },
+                {
+                    "id": "Kia_Sorento_Hybrid",
+                    "name": "Sorento Hybrid",
+                    "niceName": "sorentohybrid",
+                    "href": "/api/vehicle/v3/models?id=Kia_Sorento_Hybrid"
+                },
+                {
+                    "id": "Kia_Rio",
+                    "name": "Rio",
+                    "niceName": "rio",
+                    "href": "/api/vehicle/v3/models?id=Kia_Rio"
+                }
+            ]
+        },
+        {
+            "id": 200339126,
+            "name": "Plymouth",
+            "niceName": "plymouth",
+            "adTargetId": "plymouth",
+            "niceId": "plymouth",
+            "useInUsed": "Y",
+            "useInNew": "N",
+            "useInPreProduction": "N",
+            "useInFuture": "N",
+            "attributeGroups": {},
+            "models": [
+                {
+                    "id": "Plymouth_Breeze",
+                    "name": "Breeze",
+                    "niceName": "breeze",
+                    "href": "/api/vehicle/v3/models?id=Plymouth_Breeze"
+                },
+                {
+                    "id": "Plymouth_Horizon",
+                    "name": "Horizon",
+                    "niceName": "horizon",
+                    "href": "/api/vehicle/v3/models?id=Plymouth_Horizon"
+                },
+                {
+                    "id": "Plymouth_Sundance",
+                    "name": "Sundance",
+                    "niceName": "sundance",
+                    "href": "/api/vehicle/v3/models?id=Plymouth_Sundance"
+                },
+                {
+                    "id": "Plymouth_Laser",
+                    "name": "Laser",
+                    "niceName": "laser",
+                    "href": "/api/vehicle/v3/models?id=Plymouth_Laser"
+                },
+                {
+                    "id": "Plymouth_Voyager",
+                    "name": "Voyager",
+                    "niceName": "voyager",
+                    "href": "/api/vehicle/v3/models?id=Plymouth_Voyager"
+                },
+                {
+                    "id": "Plymouth_Colt",
+                    "name": "Colt",
+                    "niceName": "colt",
+                    "href": "/api/vehicle/v3/models?id=Plymouth_Colt"
+                },
+                {
+                    "id": "Plymouth_Prowler",
+                    "name": "Prowler",
+                    "niceName": "prowler",
+                    "href": "/api/vehicle/v3/models?id=Plymouth_Prowler"
+                },
+                {
+                    "id": "Plymouth_Acclaim",
+                    "name": "Acclaim",
+                    "niceName": "acclaim",
+                    "href": "/api/vehicle/v3/models?id=Plymouth_Acclaim"
+                },
+                {
+                    "id": "Plymouth_Neon",
+                    "name": "Neon",
+                    "niceName": "neon",
+                    "href": "/api/vehicle/v3/models?id=Plymouth_Neon"
+                },
+                {
+                    "id": "Plymouth_Grand_Voyager",
+                    "name": "Grand Voyager",
+                    "niceName": "grandvoyager",
+                    "href": "/api/vehicle/v3/models?id=Plymouth_Grand_Voyager"
+                }
+            ]
+        },
+        {
+            "id": 200347865,
+            "name": "Eagle",
+            "niceName": "eagle",
+            "adTargetId": "eagle",
+            "niceId": "eagle",
+            "useInUsed": "Y",
+            "useInNew": "N",
+            "useInPreProduction": "N",
+            "useInFuture": "N",
+            "attributeGroups": {},
+            "models": [
+                {
+                    "id": "Eagle_Summit",
+                    "name": "Summit",
+                    "niceName": "summit",
+                    "href": "/api/vehicle/v3/models?id=Eagle_Summit"
+                },
+                {
+                    "id": "Eagle_Vision",
+                    "name": "Vision",
+                    "niceName": "vision",
+                    "href": "/api/vehicle/v3/models?id=Eagle_Vision"
+                },
+                {
+                    "id": "Eagle_Premier",
+                    "name": "Premier",
+                    "niceName": "premier",
+                    "href": "/api/vehicle/v3/models?id=Eagle_Premier"
+                },
+                {
+                    "id": "Eagle_Talon",
+                    "name": "Talon",
+                    "niceName": "talon",
+                    "href": "/api/vehicle/v3/models?id=Eagle_Talon"
+                }
+            ]
+        },
+        {
+            "id": 200005922,
+            "name": "Lamborghini",
+            "niceName": "lamborghini",
+            "adTargetId": "lamborghini",
+            "niceId": "lamborghini",
+            "useInUsed": "Y",
+            "useInNew": "Y",
+            "useInPreProduction": "Y",
+            "useInFuture": "N",
+            "attributeGroups": {},
+            "models": [
+                {
+                    "id": "Lamborghini_Aventador",
+                    "name": "Aventador",
+                    "niceName": "aventador",
+                    "href": "/api/vehicle/v3/models?id=Lamborghini_Aventador"
+                },
+                {
+                    "id": "Lamborghini_Huracan_STO",
+                    "name": "Huracan STO",
+                    "niceName": "huracansto",
+                    "href": "/api/vehicle/v3/models?id=Lamborghini_Huracan_STO"
+                },
+                {
+                    "id": "Lamborghini_Huracan",
+                    "name": "Huracan",
+                    "niceName": "huracan",
+                    "href": "/api/vehicle/v3/models?id=Lamborghini_Huracan"
+                },
+                {
+                    "id": "Lamborghini_Gallardo",
+                    "name": "Gallardo",
+                    "niceName": "gallardo",
+                    "href": "/api/vehicle/v3/models?id=Lamborghini_Gallardo"
+                },
+                {
+                    "id": "Lamborghini_Murcielago",
+                    "name": "Murcielago",
+                    "niceName": "murcielago",
+                    "href": "/api/vehicle/v3/models?id=Lamborghini_Murcielago"
+                },
+                {
+                    "id": "Lamborghini_Reventon",
+                    "name": "Reventon",
+                    "niceName": "reventon",
+                    "href": "/api/vehicle/v3/models?id=Lamborghini_Reventon"
+                },
+                {
+                    "id": "Lamborghini_Urus",
+                    "name": "Urus",
+                    "niceName": "urus",
+                    "href": "/api/vehicle/v3/models?id=Lamborghini_Urus"
+                },
+                {
+                    "id": "Lamborghini_Diablo",
+                    "name": "Diablo",
+                    "niceName": "diablo",
+                    "href": "/api/vehicle/v3/models?id=Lamborghini_Diablo"
+                }
+            ]
+        }
+    ]
+}

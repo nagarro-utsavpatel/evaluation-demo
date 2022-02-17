@@ -1,0 +1,12 @@
+//
+//  configuration.xcconfig
+//  cars_demo
+//
+//  Created by Utsav Patel on 16/02/22.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_URL = api.edmunds.com
+SECREAT_KEY = 2ep93tpnyh6p5hgaxmp6pasq
